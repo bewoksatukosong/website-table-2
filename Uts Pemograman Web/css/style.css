@@ -1,0 +1,66 @@
+		.sidebar a {
+			color: #ffffff;
+			text-decoration: none;
+			text-transform: uppercase;
+		}
+
+		input[type="submit"]{
+			padding: 14px;
+			border-radius: 2px;
+			background: #e74c3c;
+			color: #ffffff;
+			cursor: pointer;
+		}
+
+		input[type="submit"]:hover{
+			padding: 14px;
+			border-radius: 2px;
+			background: #c0392b;
+			color: #ffffff;
+			cursor: pointer;
+		}
+
+		input[type="reset"]{
+			padding: 14px;
+			border-radius: 2px;
+			background: #e74c3c;
+			color: #ffffff;
+			cursor: pointer;
+		}
+
+		input[type="reset"]:hover{
+			padding: 14px;
+			border-radius: 2px;
+			background: #c0392b;
+			color: #ffffff;
+			cursor: pointer;
+		}
+
+		input[type="text"]{
+			padding: 5px;
+			border-radius: 2px;
+		}
+
+		input[type="text"]:focus {
+			padding: 5px;
+			border-radius: 2px;
+			background: #e74c3c;
+			color: #ffffff;
+		}
+
+		select[name="tgl_lahir"] {
+			padding: 5px;
+		}
+
+		select[name="bulan"] {
+			padding: 5px;
+		}
+
+		select[name="tahun"] {
+			padding: 5px;
+		}
+
+		select[name="pilih_prodi"] {
+			padding: 5px;
+		}
+
